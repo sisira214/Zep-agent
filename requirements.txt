@@ -1,0 +1,6 @@
+zep-cloud
+python-dotenv
+streamlit
+openai
+streamlit-agraph
+pyvis
